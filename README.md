@@ -41,12 +41,14 @@ Another challenge is staying updated with rapidly evolvingn technologies. to ove
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit-a small independent part of the software thhat perfoms a specific funtion. by testing each unit software engineers can identify and fix bugs early in the dev stage
-
+Integration-involves combining individual units of code to form systems. its importance is that it ensures that different parts of the software work together seamlessly.
+system- involvesb evaluating the entire software systemas a whole to ensure that all components work together correctly
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering involves designing and implementing software prompts or messages that guide users through an application.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"error occured, please try again later."
