@@ -23,18 +23,24 @@ Deployment-releasing the software to end users and ensuring a smooth transition 
 Maintenance-it includes fixing bugs,adding new features and ensuring the software remains functional
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+waterfall is sequential and rigid with distinct phases completed in order while agile is flexible and iterative emphasizing continous feed back and adaptation
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+software Developer-writing clean, efficient code based om project requirements.
+Quality assuarance engineer- responsible for ensuring the quality of software products by developing and implementing assuarance processes
+Project manager-Oversees the planning , execution and delivery of software projects. they define the project scope
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs-provide a central platform where you can write, test, and debug your code efficiently. examples are Xcode,visual studio
+VCS- help keep track of changes in code, enable collabotration among team members and provide a safety net incase something goes wrong. examples are Git,Subversion
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+common challenge faced by software engineers is dealing with tight deadlines while ensuring high-quality code. one way to overcome this is prioritize tasks effectively
+break down the project into smaller manageable tasks and utilize time.
+Another challenge is staying updated with rapidly evolvingn technologies. to overcome this dedivcate time for continuous learning
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit-a small independent part of the software thhat perfoms a specific funtion. by testing each unit software engineers can identify and fix bugs early in the dev stage
 
 
 #Part 2: Introduction to AI and Prompt Engineering
